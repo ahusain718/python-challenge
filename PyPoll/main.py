@@ -87,3 +87,17 @@ with open('analysis/election_analysis', 'w') as file:
     for line in lines:
         file.write(line + '\n')
 
+
+# In[ ]:
+
+
+#print to terminal
+print(title)
+print(dash_line)
+print(line2)
+print(dash_line)
+print("".join(total_lines))
+print(dash_line)
+print(line4)
+print(dash_line)
+
